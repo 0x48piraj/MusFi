@@ -1,2 +1,2 @@
-# IEEE Maker Project 2k17
+# IEEE Maker Project 2017
 
