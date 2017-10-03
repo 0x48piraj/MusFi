@@ -7,5 +7,5 @@
 # Accepted !
 
 [live on IEEE](https://transmitter.ieee.org/makerproject/view/93538) 
-### (Offline ! Gone for an update )
+
 
