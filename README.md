@@ -9,6 +9,9 @@
 
 > Finalists in each category receive an Amazon gift card worth US $50 in their local currency, and their projects will be featured on IEEE Transmitter. The grand-prize winner will receive a $500 Amazon gift card and an hour-long mentoring session with an IEEE member.
 
+**What intrigued me the most !**
+
+> **This is your opportunity to show the world the work that has been keeping you up at night. So, if you are tirelessly tinkering with a tech project that solves complex problems and has applications to benefit society, and want to win great prizes, we want to hear from you.**
 
 
 ## Demonstration :
