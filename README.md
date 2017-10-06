@@ -20,6 +20,6 @@
 
 # Accepted !
 
-[**Live on IEEE**](https://transmitter.ieee.org/makerproject/view/93538) 
+[**Now LIVE on IEEE**](https://transmitter.ieee.org/makerproject/view/93538) 
 
 
