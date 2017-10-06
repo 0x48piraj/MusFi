@@ -21,6 +21,6 @@
 # Indexed !
 
 [**Now LIVE on IEEE**](https://transmitter.ieee.org/makerproject/view/93538) 
-*After a long-long wait !*
+ *(After a long-long wait !)*
 
 
