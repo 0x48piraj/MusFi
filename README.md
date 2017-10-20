@@ -22,5 +22,23 @@
 
 [**Now LIVE on IEEE**](https://transmitter.ieee.org/makerproject/view/93538) 
  *(After a long-long wait !)*
+ 
+ Over !!
+ 
+ 
+15th out  of 183 Projects !
+
+in top 8%
+ok. Precisely in top 8.1967213114754098360655737704918 %
+total sub. | > my_votes
+9 - 0 entertainment 
+46 - 6 health
+22 - 1 education
+16 -1 sustainability
+24 - 2 transportation
+37 - 2 other
+29 - 2 accessibility
+
+
 
 
