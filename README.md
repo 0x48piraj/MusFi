@@ -40,11 +40,11 @@
  > The Contest period is **Over** now !
  
  
-## 15th out  of 183 Projects !
+# Quick Facts !
 
-in top 8%
+* **15th out  of 183 Projects !**
 
-ok. Precisely in top 8.1967213114754098360655737704918 %
+* **In top 8%** (*Ok. Precisely in top 8.1967213114754098360655737704918 %*)
 
 total sub. | > my_votes
 
