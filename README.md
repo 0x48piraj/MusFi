@@ -13,6 +13,18 @@
 
 > **This is your opportunity to show the world the work that has been keeping you up at night. So, if you are tirelessly tinkering with a tech project that solves complex problems and has applications to benefit society, and want to win great prizes, we want to hear from you.**
 
+# My Project !
+
+## Transmit music over the Visible Light Spectrum using Li-Fi.
+
+> Imagine a place with no-wires/routers/modems Whatsoever!
+
+**Worth Investing! Right ?**
+
+> **Light Fidelity(Li-Fi)** is an emerging super-fast/super-sexy technology that can be implemented in every-aspect of **data-transmission** and probably, is the key of future-communication!
+
+## The Purpose
+> Other than Wi-Fi or any current transmission networks, LiFi is the healthier Alternative. Because, It works on Visible Light Spectrum. And so, No radiation ! No EMF exposure ! Nowadays, Music Streaming is becoming very popular and thus, My Project is near-Perfect solution for this, because light spectrum is also 10,000 times broader than the radio spectrum, providing greater bandwidth than WiFi. One more supporting factor is, that Li-Fi is blazingly fast ! 224 gigabits per second! or say, 18 BlueRay quality movies in one second !! And, So it may handle the tremendously growing internet population. Other than these, Li-Fi can also control the increasing frequency of Dead-Spots(Internet-Failures).
 
 ## Demonstration :
 [![Youtube Demo](https://img.youtube.com/vi/cRLjyrz-uKk/0.jpg)](https://www.youtube.com/watch?v=JOluPk97xYU "0x48piraj's Channel")
