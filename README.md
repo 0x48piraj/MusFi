@@ -48,13 +48,7 @@
 
 total sub. | > my_votes
 
-9 - 0 entertainment 
-46 - 6 health
-22 - 1 education
-16 -1 sustainability
-24 - 2 transportation
-37 - 2 other
-29 - 2 accessibility
+
 
 | Category        | Total Projects           | > My Project(votes)  |
 | ------------- |:-------------:| -----:|
