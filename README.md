@@ -18,7 +18,9 @@
 [![Youtube Demo](https://img.youtube.com/vi/cRLjyrz-uKk/0.jpg)](https://www.youtube.com/watch?v=JOluPk97xYU "0x48piraj's Channel")
 
 
-# Indexed !
+# Live! Live! Live!
+
+> Indexed after a long wait !
 
 [**Now LIVE on IEEE**](https://transmitter.ieee.org/makerproject/view/93538) 
  *(After a long-long wait !)*
@@ -29,8 +31,11 @@
 15th out  of 183 Projects !
 
 in top 8%
+
 ok. Precisely in top 8.1967213114754098360655737704918 %
+
 total sub. | > my_votes
+
 9 - 0 entertainment 
 46 - 6 health
 22 - 1 education
