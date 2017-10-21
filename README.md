@@ -25,7 +25,7 @@
 [**Now LIVE on IEEE**](https://transmitter.ieee.org/makerproject/view/93538) 
  *(After a long-long wait !)*
  
- Over !!
+ > The Contest period is **Over** now !
  
  
 15th out  of 183 Projects !
