@@ -89,7 +89,7 @@
 **Extensive Breakdown**
 
 | Category        | Total Projects           | > My Project(votes)  | My Project's Rank |
-| ------------- |:-------------:| |:-------------:| -----:|
+| --- | --- | --- | --- |
 | Entertainment      | 9 | 0 | 1st |
 | Health      | 46      |   6 | 7th |
 | Education | 22      |    1 | 2nd |
