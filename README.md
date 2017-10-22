@@ -91,12 +91,12 @@
 | Category        | Total Projects           | > My Project(votes)  | My Project's Rank |
 | --- | --- | --- | --- |
 | Entertainment      | 9 | 0 | 1st |
-| Health      | 46      |   6 | 7th |
 | Education | 22      |    1 | 2nd |
 | Sustainability      | 16 | 1 | 2nd |
 | Transportation      | 24      |   2 | 3rd |
 | Accessibility | 29      |    2 | 3rd |
 | Other | 37      |    2 | 3rd |
+| Health      | 46      |   6 | 7th |
 
 
 
