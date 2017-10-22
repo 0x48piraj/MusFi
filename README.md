@@ -53,7 +53,17 @@
 
 > Because **Light Spectrum** is 10,000 times broader than the **Radio Spectrum**, providing greater bandwidth than WiFi.
 
-One more supporting factor is, that Li-Fi is blazingly fast ! 224 gigabits per second! or say, 18 BlueRay quality movies in one second !! And, So it may handle the tremendously growing internet population. Other than these, Li-Fi can also control the increasing frequency of Dead-Spots(Internet-Failures).
+### `Any more Supporting Factors ?`
+
+> Li-Fi is blazingly fast !
+
+### `How fast ?`
+
+> **224 gigabits per second!** *(at lab conditions)* or say, **18 Blue-Ray quality movies per Second !!**
+
+###  `Practicality ?`
+
+> Practically, it may handle the **tremendously growing internet population**. Li-Fi can also control the *increasing frequency* of **Dead-Spots(Internet-Failures)**.
 
 ## Demonstration :
 [![Youtube Demo](https://img.youtube.com/vi/cRLjyrz-uKk/0.jpg)](https://www.youtube.com/watch?v=JOluPk97xYU "0x48piraj's Channel")
