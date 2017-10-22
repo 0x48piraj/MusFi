@@ -45,11 +45,11 @@
 
 > Nowadays, **Music Streaming** is becoming very popular.
 
-### `Yes !! So ?`
+### `Yes!! So ?`
 
 > And So, My Project is **Near-Perfect Solution** for this.
 
-### `Really ! How ?`
+### `Really! How ?`
 
 > Because **Light Spectrum** is 10,000 times broader than the **Radio Spectrum**, providing greater bandwidth than WiFi.
 
