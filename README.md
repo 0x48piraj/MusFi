@@ -39,6 +39,7 @@
 * **No radiation !**
 * **No EMF exposure !**
 
+---
 
 ### Purpose #2 :
 
