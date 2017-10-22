@@ -28,7 +28,7 @@
 
 > Other than Wi-Fi or any current transmission networks, LiFi is the **Healthier-Alternative**.
 
-### `Why ?`
+### `How ?`
 
 > Because, it works on **Visible Light Spectrum**. 
 
@@ -39,7 +39,6 @@
 * **No radiation !**
 * **No EMF exposure !**
 
-### `How ?`
 
 ### Purpose #2 :
 
