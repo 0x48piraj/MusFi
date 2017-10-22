@@ -71,12 +71,11 @@
 
 # Live! Live! Live!
 
-> Indexed after a long wait !
+> *Indexed after a long-long wait !*
 
 [**Now LIVE on IEEE**](https://transmitter.ieee.org/makerproject/view/93538) 
- *(After a long-long wait !)*
  
- > The Contest period is **Over** now !
+> The Contest period is **Over** now !
  
  
 # Quick Facts !
