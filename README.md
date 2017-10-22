@@ -75,7 +75,7 @@
 
 [**Now LIVE on IEEE**](https://transmitter.ieee.org/makerproject/view/93538) 
  
-> The Contest period is **Over** now !
+
  
  
 # Quick Facts !
@@ -97,6 +97,10 @@
 | Accessibility | 29      |    2 | 3rd |
 | Other | 37      |    2 | 3rd |
 | Health      | 46      |   6 | 7th |
+
+---
+
+> The **Contest-Period** is **over** now !
 
 
 
