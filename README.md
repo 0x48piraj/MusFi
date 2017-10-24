@@ -73,7 +73,7 @@
 
 > *Indexed after a long-long wait !*
 
-[**Now LIVE on IEEE**](https://transmitter.ieee.org/makerproject/view/93538) 
+[**Now LIVE on IEEE**](https://transmitter.ieee.org/makerproject/view/93538) (*The **Contest Period** is **over** now !*)
  
 
  
@@ -100,7 +100,7 @@
 
 ---
 
-> The **Contest-Period** is **over** now !
+> **Entry Period:** This contest opens on 16 May 2017 at 10:00 AM ET and all entries must be submitted by 11:59 PM ET on 17 October 2017 (“Promotional Period”).
 
 
 
