@@ -73,7 +73,7 @@
 
 > *Indexed after a long-long wait !*
 
-[**Now LIVE on IEEE**](https://transmitter.ieee.org/makerproject/view/93538) (*The **Contest Period** is **over** now !*)
+[**LIVE on IEEE**](https://transmitter.ieee.org/makerproject/view/93538) (*The **Contest Period** is **over** now !*)
  
 
  
