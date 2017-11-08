@@ -82,7 +82,7 @@
 
 * **15th out  of 183 Projects !**
 
-* **In top 8%** (*Ok. Precisely in top 8.1967213114754098360655737704918 %*)
+* **In top 8%** (*Ok. Ok. Fine! Precisely in top 8.1967213114754098360655737704918 %*)
 
 ---
 
