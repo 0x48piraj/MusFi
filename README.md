@@ -1,6 +1,6 @@
 # IEEE Maker Project 2017
 
-> **UPDATE :** **This Project** got the most **likes**:+1: and thus, topped in his category e.g. **Entertainment**
+> **UPDATE :** **This Project** got the most **likes**:+1: and thus, topped in it's category e.g. **Entertainment**
 
 
 ![](http://theinstitute.ieee.org/image/MTYyNzEz.jpeg)
