@@ -1,6 +1,6 @@
-# MusFi
+# MusFi &mdash; Transmitting Music Over Visible Light Spectrum
 
-Reviving this project because still after nearly 3 years because, I think, the world is not paying attention this technology deserves.
+Reviving this project because still after nearly 3 years because, I think, the world is not paying attention this technology deserves. The project lives over [transmission.ofthesongs.com](https://transmission.ofthesongs.com).
 
 ## About the Project
 
@@ -13,14 +13,13 @@ In case you're wondering why it is a healthier alternative, because it works on 
 
 Theoretically, it may handle the tremendously growing internet population, it can also control the increasing frequency of wireless dead spots.
 
-## Demonstration
-[![Youtube Demo](https://img.youtube.com/vi/cRLjyrz-uKk/0.jpg)](https://www.youtube.com/watch?v=JOluPk97xYU "0x48piraj's Channel")
+You can see the [Initial Prototype](https://youtu.be/cRLjyrz-uKk) which I made for IEEE Maker Project 2017.
 
-## Project Origin
+#### Project Origin
 
 It all started when I read about IEEE Maker Project 2017. What intrigued me the most was that IEEE Maker Project contest gave an opportunity to show the world the work that has been keeping me up at night, tirelessly tinkering with a tech project that solves complex problems and has applications to benefit society.
 
-> The Project got the most upvotes and topped in it's category e.g. Entertainment, overall secured 15th position out of 183 projects. You can visit the project at it's infancy over [transmitter.ieee.org/makerproject/view/93538](https://transmitter.ieee.org/makerproject/view/93538)
+> The Project got the most upvotes and topped in it's category e.g. Entertainment, overall secured 15th position out of 183 projects. You can visit the project in it's infancy over [transmitter.ieee.org/makerproject/view/93538](https://transmitter.ieee.org/makerproject/view/93538)
 
 **Extensive Breakdown**
 
